@@ -7,6 +7,6 @@
 
 ---
 
-### 🔗 Find more information on my blog
+### 🔗 Find more on my blog
 - 🌐 [My Blog](https://cnyoungneil.github.io/selfblog/)  
 
